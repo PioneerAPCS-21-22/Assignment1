@@ -13,7 +13,7 @@ public class Main
         int side2 = 5;
         double area = side1 * side2;
 
-        System.out.println("Area = " +  area);
+        System.out.println("Area = " +  area);  // Area = 52.5
     }
 }
 
