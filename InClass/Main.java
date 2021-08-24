@@ -9,15 +9,11 @@ public class Main
 {
     public static void main(String[] args) 
     {
-        int side1 = 10;
-        int side2 = 4;
-        double radius = 4.5;
-        System.out.println(side1);
-        System.out.println(radius);
-        double area = 3.14159 * radius * radius;
-        System.out.println(area);
-        int perimeter = 2 * side1 + 2 * side2;
-        System.out.println(perimeter);
+        double side1 = 10.5;
+        int side2 = 5;
+        double area = side1 * side2;
+
+        System.out.println("Area = " +  area);
     }
 }
 
