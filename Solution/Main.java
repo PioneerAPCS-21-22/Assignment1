@@ -12,7 +12,7 @@ public class Main
         // Triangle
         int base = 6;
         int height = 10;
-        int areaTri = 6 * 10 / 2;
+        int areaTri = base * height / 2;
 
         // Circle
         double radius = 15.0;
